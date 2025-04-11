@@ -6,6 +6,7 @@ NoScroll AI
 We all scroll, be it doom or normally. But Have you ever wondered:
 
 How is this affecting my mental state?
+
 Is the algorithm shaping my mood, or am I shaping it?
 
 NoScroll AI is an AI-powered feedback tool that helps you understand, manage, and take back control of your digital consumption.
@@ -34,7 +35,11 @@ By providing feedback, setting boundaries, and promoting awareness, it helps you
 
 **Tech Stack**
 Frontend: React or Next.js
+
 Backend: Node.js or Flask
+
 NLP and Sentiment Analysis: OpenAI API, HuggingFace, VADER
+
 Database: Firebase or Supabase
+
 Optional: Chrome Extension for real-time tracking
