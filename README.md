@@ -3,7 +3,8 @@
 
 NoScroll AI
 
-We all scroll, be it doom or normally.But Have you ever asked that:
+We all scroll, be it doom or normally. But Have you ever wondered:
+
 How is this affecting my mental state?
 Is the algorithm shaping my mood, or am I shaping it?
 
@@ -27,6 +28,13 @@ Daily and weekly summaries show what you’ve been consuming, how it may be affe
 **Mindfulness Suggestions**
 When intervention is needed, NoScroll offers helpful alternatives like journaling, calming music, or stepping away.
 
-Mission
+**Mission**
 NoScroll AI is not about limiting you—it's about making your screen time intentional.
 By providing feedback, setting boundaries, and promoting awareness, it helps you stop unconscious scrolling and reclaim your focus.
+
+**Tech Stack**
+Frontend: React or Next.js
+Backend: Node.js or Flask
+NLP and Sentiment Analysis: OpenAI API, HuggingFace, VADER
+Database: Firebase or Supabase
+Optional: Chrome Extension for real-time tracking
