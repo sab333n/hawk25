@@ -34,6 +34,7 @@ NoScroll AI is not about limiting you—it's about making your screen time inten
 By providing feedback, setting boundaries, and promoting awareness, it helps you stop unconscious scrolling and reclaim your focus.
 
 **Tech Stack**
+
 Frontend: React or Next.js
 
 Backend: Node.js or Flask
